@@ -34,4 +34,5 @@ module JqueryTmplRails
       scope.logical_path.sub(@prefix, "")
     end
   end
+
 end
